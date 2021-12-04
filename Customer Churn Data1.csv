@@ -1,4 +1,4 @@
-﻿AccountID,Churn,Tenure,City_Tier,CC_Contacted_LY,Payment,Gender,Service_Score,Account_user_count,account_segment,CC_Agent_Score,Marital_Status,rev_per_month,Complain_ly,rev_growth_yoy,coupon_used_for_payment,Day_Since_CC_connect,cashback,Login_device
+AccountID,Churn,Tenure,City_Tier,CC_Contacted_LY,Payment,Gender,Service_Score,Account_user_count,account_segment,CC_Agent_Score,Marital_Status,rev_per_month,Complain_ly,rev_growth_yoy,coupon_used_for_payment,Day_Since_CC_connect,cashback,Login_device
 20000,1,4,3,6,Debit Card,Female,3,3,Super,2,Single,9,1,11,1,5,160,Mobile
 20001,1,0,1,8,UPI,Male,3,4,Regular Plus,3,Single,7,1,15,0,0,121,Mobile
 20002,1,0,1,30,Debit Card,Male,2,4,Regular Plus,3,Single,6,1,14,0,3,,Mobile
